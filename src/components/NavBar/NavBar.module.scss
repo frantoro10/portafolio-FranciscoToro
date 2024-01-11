@@ -1,0 +1,22 @@
+.headerContainer {
+    margin-top: 5em;
+    position: fixed;
+    @media (max-width: 1000px) {
+      position: relative !important;
+    }
+  } 
+
+
+.navBarItem {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1em !important;
+    text-align: center;
+    cursor: pointer;
+    font-weight: 500;
+    
+   
+}   
+
+.navBarItem:hover {
+    color: #E2E8F0; 
+}
