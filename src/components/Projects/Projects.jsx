@@ -19,7 +19,7 @@ const Projects = () => {
             img: "/projects/mini-business-app.jpg",
             description: "Responsive Mini Business App: JavaScript - React + Vite - CSS - Bootstrap - Firebase (Database)",
             github: "https://github.com/frantoro10/Kiosco-Familiar",
-            url: "https://ecommerce-react-js-umber.vercel.app/"
+            url: "https://mini-business.vercel.app/"
         }
     ]
 
