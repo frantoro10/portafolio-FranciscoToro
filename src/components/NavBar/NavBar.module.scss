@@ -1,4 +1,4 @@
-.headerContainer {
+.header-container {
     margin-top: 5em;
     position: fixed;
     @media (max-width: 1000px) {
@@ -6,6 +6,12 @@
     }
   } 
 
+.active {
+    border: 2px solid #007bff;  // Cambia el color del borde según tus preferencias
+    background-color: rgba(0, 123, 255, 0.1);  // Fondo ligeramente coloreado
+    border-radius: 4px;  // Bordes redondeados
+    padding: 5px;  // Espaciado adicional para el borde
+}
 
 .navBarItem {
     font-family: 'Montserrat', sans-serif;
