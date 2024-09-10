@@ -1,8 +1,15 @@
-# React + Vite
+# Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hosted on Vercel, Link: https://portafolio-francisco-toro.vercel.app/
 
-Currently, two official plugins are available:
+English:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Responsive Portfolio: JavaScript React + Vite - CSS - Bootstrap
+Objective: Create a portfolio where visitors can find information about me, my skills, my projects, and how to contact me.
+
+Spanish:
+
+Portafolio Responsive: JavaScript React + Vite - CSS - Bootstrap.
+Objetivo: Crear un portafolio donde el visitante pueda encontrar información sobre mi, de mis habilidades, de mis proyectos y de como contactarme.
+
+
