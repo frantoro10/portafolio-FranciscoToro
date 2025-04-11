@@ -1,15 +1,68 @@
-# Portfolio
+# 🧑‍💻 Portfolio - Francisco Toro
 
-Hosted on Vercel, Link: https://portafolio-francisco-toro.vercel.app/
+> 🌐 **Live Site:** [portafolio-francisco-toro.vercel.app](https://portafolio-francisco-toro.vercel.app/)
 
-English:
+---
 
-Responsive Portfolio: JavaScript React + Vite - CSS - Bootstrap
-Objective: Create a portfolio where visitors can find information about me, my skills, my projects, and how to contact me.
+## 🚀 Tech Stack
 
-Spanish:
+- ⚛️ **React + Vite**
+- 🎨 **CSS**
+- 🎯 **Bootstrap**
+- 💻 **JavaScript**
 
-Portafolio Responsive: JavaScript React + Vite - CSS - Bootstrap.
-Objetivo: Crear un portafolio donde el visitante pueda encontrar información sobre mi, de mis habilidades, de mis proyectos y de como contactarme.
+---
+
+## 🎯 Project Objective
+
+Design and build a **responsive personal portfolio** that allows visitors to:
+
+- 📌 Learn more **about me**
+- 🧠 Explore my **skills & technologies**
+- 🛠️ Discover my **projects**
+- 📬 Get in **touch** through a contact section
+
+---
+
+## 📂 Sections Overview
+
+### 👤 About Me
+A brief introduction highlighting who I am, my background, and my passion for web development.
+
+### 💡 Skills
+Visual list of my technical skills including frontend and backend technologies:
+- HTML, CSS, JavaScript, TypeScript, React
+- Node.js, Express, Python
+- Git & GitHub
+- MongoDB, MySQL, PostgreSQL
+
+### 🧩 Projects
+Showcase of selected projects with:
+- Title, description, and tech used
+- Links to live demo and GitHub repository
+
+### 📫 Contact
+Form and contact information so users can reach out directly.
+
+---
+
+## 📱 Responsive Design
+
+The layout adapts perfectly to different screen sizes, providing a smooth experience across desktop, tablet, and mobile devices.
+
+---
+
+## 📌 Notes
+
+- 🧪 This project is deployed on **Vercel** and regularly updated.
+- 🧱 Future improvements may include **multi-language support**, **dark mode**, or integrating **contact form with email service**.
+
+---
+
+## 🧷 Link
+
+🔗 [Visit Portfolio](https://portafolio-francisco-toro.vercel.app/)
+
+---
 
 
